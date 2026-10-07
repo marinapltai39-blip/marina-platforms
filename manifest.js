@@ -294,12 +294,6 @@ window.MARINA_DATA = {
          "title": "TOW POST PLT 250 375 2",
          "file": "files/catalogue/parking-systems/Tow Post/TOW POST PLT 250 375 2.pdf",
          "image": "files/catalogue/parking-systems/Tow Post/TOW POST PLT 250 375 2.jpg"
-        },
-        {
-         "type": "file",
-         "title": "TOW POST PLT 213 350 1",
-         "file": "files/catalogue/parking-systems/Tow Post/TOW POST PLT-213-350-1.pdf",
-         "image": "files/catalogue/parking-systems/Tow Post/Two Post.jpg"
         }
        ],
        "image": "files/catalogue/parking-systems/Tow Post/Two Post.jpg"
@@ -1366,13 +1360,6 @@ window.MARINA_DATA = {
          "title": "Two Post PLT 213 350 Plus",
          "file": "files/technical-offers/Parking System/2 Post/Two Post PLT 213-350-Plus.pdf",
          "download": "files/technical-offers/Parking System/2 Post/Two Post PLT 213-350-Plus.docx",
-         "image": "files/catalogue/parking-systems/Tow Post/Two Post.jpg"
-        },
-        {
-         "type": "file",
-         "title": "Two Post PLT 250 350 2",
-         "file": "files/technical-offers/Parking System/2 Post/Two Post PLT 250-350-2.pdf",
-         "download": "files/technical-offers/Parking System/2 Post/Two Post PLT 250-350-2.docx",
          "image": "files/catalogue/parking-systems/Tow Post/Two Post.jpg"
         }
        ],
