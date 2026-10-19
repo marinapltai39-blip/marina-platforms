@@ -291,9 +291,9 @@ window.MARINA_DATA = {
         },
         {
          "type": "file",
-         "title": "TOW POST PLT 250 375 2",
-         "file": "files/catalogue/parking-systems/Tow Post/TOW POST PLT 250 375 2.pdf",
-         "image": "files/catalogue/parking-systems/Tow Post/TOW POST PLT 250 375 2.jpg"
+         "title": "TOW POST PLT 213 350 1",
+         "file": "files/catalogue/parking-systems/Tow Post/TOW POST PLT-213-350-1.pdf",
+         "image": "files/catalogue/parking-systems/Tow Post/Two Post.jpg"
         }
        ],
        "image": "files/catalogue/parking-systems/Tow Post/Two Post.jpg"
