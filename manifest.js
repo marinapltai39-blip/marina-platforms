@@ -180,6 +180,12 @@ window.MARINA_DATA = {
          "children": [
           {
            "type": "file",
+           "title": "Mini Elevator 2025. c",
+           "file": "files/catalogue/elevator/Personal/Mini Elevator/Mini Elevator 2025.__c.pdf",
+           "image": "files/catalogue/elevator/Personal/Mini Elevator/Mini Elevator With Towr.jpg"
+          },
+          {
+           "type": "file",
            "title": "Mini Elevator 2025",
            "file": "files/catalogue/elevator/Personal/Mini Elevator/Mini Elevator 2025.pdf",
            "image": "files/catalogue/elevator/Personal/Mini Elevator/Mini Elevator With Towr.jpg"
